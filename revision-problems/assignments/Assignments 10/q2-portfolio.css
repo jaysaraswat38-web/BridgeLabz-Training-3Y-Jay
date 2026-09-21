@@ -1,0 +1,10 @@
+﻿body {
+  font-family: Arial, sans-serif;
+}
+
+.profile-img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border: 5px solid #f1f1f1;
+}

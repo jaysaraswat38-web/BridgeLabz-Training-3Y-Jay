@@ -1,0 +1,16 @@
+﻿body {
+  font-family: Arial, sans-serif;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, #f7f9ff, #edf4ff);
+}
+
+.feature-icon {
+  font-size: 2rem;
+}
+
+.hero-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(8px);
+}
